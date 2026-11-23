@@ -1,6 +1,6 @@
 # Soundprint Studio
 
-[Download the Windows app](Soundprint-Studio-Windows.zip), extract the ZIP, and run `SoundprintStudio.exe`.
+[Download SoundprintStudio.exe](https://github.com/rickbesada-netizen/Soundprint/raw/refs/heads/main/SoundprintStudio.exe) and run it on Windows.
 
 The app is portable and runs on Windows with .NET Framework 4.5 or newer.
 
