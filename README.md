@@ -1,8 +1,7 @@
 # Soundprint Studio
 
-Download `Soundprint-Studio-Windows.zip` from this repository, extract it, and run `SoundprintStudio.exe`.
+[Download the Windows app](Soundprint-Studio-Windows.zip), extract the ZIP, and run `SoundprintStudio.exe`.
 
-Extract this ZIP and double-click SoundprintStudio.exe.
 The app is portable and runs on Windows with .NET Framework 4.5 or newer.
 
 1. Add or drag in WAV files, or add an M3U/M3U8 pointing to local audio.
